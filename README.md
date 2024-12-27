@@ -1,4 +1,4 @@
-<h2 align="center">
+<h2align="center">
     <a href="https://httpie.io" target="blank_">
         <img height="100" alt="HTTPie" src="https://raw.githubusercontent.com/httpie/cli/master/docs/httpie-logo.svg" />
     </a>
